@@ -42,7 +42,7 @@ for Real Image Editing</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Novel-StyleGAN-Inversion-Papers/blob/master/s(20).pdf" style="text-decoration:none;">Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Novel-StyleGAN-Inversion-Papers/blob/master/s(21).pdf" style="text-decoration:none;">Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Novel-StyleGAN-Inversion-Papers/blob/master/s(21).pdf" style="text-decoration:none;">One Model to Reconstruct Them All: A Novel Way to Use the Stochastic Noise in StyleGAN</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Novel-StyleGAN-Inversion-Papers/blob/master/s(22).pdf" style="text-decoration:none;">StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Novel-StyleGAN-Inversion-Papers/blob/master/s(23).pdf" style="text-decoration:none;">LOHO: Latent Optimization of Hairstyles via Orthogonalization</a></li> 
  
