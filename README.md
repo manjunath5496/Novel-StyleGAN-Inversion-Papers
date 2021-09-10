@@ -51,7 +51,7 @@ for Real Image Editing</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Novel-StyleGAN-Inversion-Papers/blob/master/s(25).pdf" style="text-decoration:none;">Image2StyleGAN++: How to Edit the Embedded Images?</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/Novel-StyleGAN-Inversion-Papers/blob/master/s(26).pdf" style="text-decoration:none;">A Style-Based Generator Architecture for Generative Adversarial Networks</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Novel-StyleGAN-Inversion-Papers/blob/master/s(27).pdf" style="text-decoration:none;">StyleFlow: Aribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Novel-StyleGAN-Inversion-Papers/blob/master/s(27).pdf" style="text-decoration:none;">StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows</a></li>
    
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Novel-StyleGAN-Inversion-Papers/blob/master/s(28).pdf" style="text-decoration:none;">High-resolution Controllable Prostatic Histology Synthesis using StyleGAN</a></li>
